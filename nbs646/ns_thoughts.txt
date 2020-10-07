@@ -1,0 +1,3 @@
+My first time using Git was during my junior year in highschool. I was part of the coding team for our robotics team. The only other member was my Robotics coach. He taught me everything I know about git. I found it very useful because I could code on my local machine and just push all of my changes into the master repo
+
+The only other time I have used git would be during my Software Engineering and Design class to upload my homework into a homework folder. Although this time, I had to use bitbucket instead of Github. the only major hurdles that I have hit while using git is when I forget that I need to add my local working directory to the staging area before I can commit and push. I have consisitently forgotten that step every new time that I revisit git.
