@@ -1,0 +1,1 @@
+My first time using git was in a coding project in my senior year of highschool. I found it extremely unintuitive and eventually gave up on it. Since then, I've been repeatedly warned of how scary git is. However, this powerpoint did make it seem more approachable and understandable, and I hope to use it better in the future.
